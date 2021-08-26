@@ -2,8 +2,10 @@
 
 <h3> 👨🏻‍💻 关于我 </h3>
 
-- 北方工业大学 计算机技术专业研三在读。2017 年本科毕业于 华北水利水电大学 计算机科学与技术专业。
-- 开发方向主要为Java后端、运维、安卓和Vue前端。
+- 北方工业大学（计算机技术专业）研三在读。2017 年本科毕业于华北水利水电大学（计算机科学与技术专业） 
+- 开发方向为Java后端（包括工作流）、Linux运维、Android和Vue.js
+
+
 
 
 <h3> 💬 联系我</h3>
@@ -19,7 +21,7 @@
 <h3> 🔧 技术栈与工具</h3>
 
 ![java](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=79b8ff)![docker](https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=79b8ff)![k8s](https://img.shields.io/badge/Kubernetes-grey?style=for-the-badge&logo=Kubernetes&logoColor=white&labelColor=79b8ff)
-
+![Android](https://img.shields.io/badge/Android-grey?style=for-the-badge&logo=Android&logoColor=white&labelColor=79b8ff)
 ![js](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=79b8ff)![vue.js](https://img.shields.io/badge/Vue.js-grey?style=for-the-badge&logo=Vue.js&logoColor=white&labelColor=79b8ff)
 
 ![git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=Git&logoColor=white&labelColor=79b8ff)![markdowd](https://img.shields.io/badge/Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=79b8ff)
@@ -36,7 +38,7 @@
 > 
 > [lemon-workflow: BPM 平台](https://github.com/lyuxiaobo/lemon-workflow) 
 
-<a href="https://github.com/lyuxiaobo/lemon-workflow">![https://github.com/lyuxiaobo/lemon-workflow](https://github-readme-stats.vercel.app/api/pin/?username=lyuxiaobo&repo=lemon-workflow&show_icons=true&locale=cn)</a>
+<a href="https://github.com/lyuxiaobo/lemon-workflow">![https://github.com/lyuxiaobo/lemon-workflow](https://github-readme-stats.vercel.app/api/pin/?username=lyuxiaobo&repo=lemon-workflow&show_icons=true&locale=cn)</a><a href="https://github.com/lyuxiaobo/rong-im-demo">![https://github.com/lyuxiaobo/rong-im-demo](https://github-readme-stats.vercel.app/api/pin/?username=lyuxiaobo&repo=rong-im-demo&show_icons=true&locale=cn)</a>
 
 ![lyuxiaobo's github stats](https://github-readme-stats.vercel.app/api?username=lyuxiaobo&show_icons=true&locale=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuxiaobo&layout=compact&locale=cn)
